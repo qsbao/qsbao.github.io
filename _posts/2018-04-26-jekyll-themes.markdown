@@ -8,6 +8,6 @@ categories: jekyll themes
 
 [Jekyll Themes](https://jekyllthemes.io/)
 
-[Sera Jekyll Theme][sera-jekyll-them]
+[Sera Jekyll Theme][sera-jekyll-theme]
 
 [sera-jekyll-theme]: https://jekyllthemes.io/theme/sera-onepage-multi-purpose-jekyll-theme
